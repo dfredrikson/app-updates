@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.2.1",
+  "download_url": "https://TU_URL/FastCaptions_1.2.1.pkg",
+  "announcement": {
+    "id": "promo-mayo-2026",
+    "title": "🎉 Oferta especial — 40% OFF",
+    "message": "Por tiempo limitado, obtené FastCaptions Pro con un 40% de descuento.\n\nUsá el código MAYO40 al momento del checkout.",
+    "action_url": "https://TU_URL_DE_COMPRA",
+    "action_label": "Ver oferta →"
+  }
+}
