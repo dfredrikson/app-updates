@@ -1,11 +1,11 @@
 {
   "latest_version": "1.2.1",
-  "download_url": "https://TU_URL/FastCaptions_1.2.1.pkg",
+  "download_url": "https://github.com/dfredrikson/app-updates/releases/download/v1.2.1/FastCaptions.pkg",
   "announcement": {
-    "id": "promo-mayo-2026",
-    "title": "🎉 Oferta especial — 40% OFF",
-    "message": "Por tiempo limitado, obtené FastCaptions Pro con un 40% de descuento.\n\nUsá el código MAYO40 al momento del checkout.",
-    "action_url": "https://TU_URL_DE_COMPRA",
+    "id": "May-26-95off",
+    "title": "⚡️ ¡OFERTA LANZAMIENTO: 95% OFF!",
+    "message": "No solo subtitules, ¡edita a la velocidad de la luz! Desbloquea AutoCutPro hoy mismo con un descuento único por tiempo limitado. Corta silencios y zooms automáticos con un clic.",
+    "action_url": "https://fredriksonstore.gumroad.com/l/autocutpro",
     "action_label": "Ver oferta →"
   }
 }
