@@ -1,11 +1,4 @@
 {
-  "latest_version": "1.2.1",
-  "download_url": "https://github.com/dfredrikson/app-updates/releases/download/v1.2.1/FastCaptions.pkg",
-  "announcement": {
-    "id": "May-26-95off-autocut-hotsale",
-    "title": "⚡️ HOT SALE: 95% OFF!",
-    "message": "Have you heard of AutoCutPro? It automatically CUTS out all SILENCES in under 20 seconds. Get a lifetime subscription for just $4.90. Try it FREE for 14 days!",
-    "action_url": "https://fredriksonstore.gumroad.com/l/autocutpro",
-    "action_label": "View Offer →"
-  }
+  "latest_version": "1.2.2",
+  "download_url": "https://github.com/dfredrikson/app-updates/releases/download/v1.2.2/FastCaptionsInstaller.pkg",
 }
